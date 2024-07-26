@@ -9,4 +9,6 @@ Designed a user-friendly website for task management, feature a simple and elleg
 :--:
 <b>Listing of tasks to be completed</b>
 
-
+![Completed Tasks](https://github.com/user-attachments/assets/991489ca-ff18-4a5d-85a8-4791bcf8411a)
+:--:
+<b>Status of the task if completed</b>
